@@ -517,9 +517,9 @@
 
     - **Découvrir** d'avantage la [modélisation 3D avec BlocksCad](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/3D/BlocksCAD/){target="_blank"} ;  
 
-
+-->
 ***
-## Du 22/04
+## Les 04 et 18/11
 
 === "CONTENU DE SÉANCE"
 
@@ -542,7 +542,7 @@
 
     - **Découvrir** d'avantage la [modélisation 3D avec BlocksCad](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/3D/BlocksCAD/){target="_blank"} ;
 
--->
+
 ***
 ## Le 07/10
 
