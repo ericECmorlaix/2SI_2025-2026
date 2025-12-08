@@ -517,7 +517,7 @@
 
     - **Découvrir** d'avantage la [modélisation 3D avec BlocksCad](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/3D/BlocksCAD/){target="_blank"} ;  
 
--->
+
 ***
 ## Les 04 et 18/11
 
@@ -605,25 +605,22 @@
 
     - **Poursuivre** la programmation de la carte [**QuickPi**](https://amazon.quick-pi.org/){target="_blank"} avec votre code personnel ;    
     - **Découvrir** plus avant les fonctionnalités d'écriture en MarkDown dans les [notebook jupyter](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/IDE/notebook/){target=_blank} ;
-  
+-->  
 ***
 
-## Le 16/09
+## Le 08/12
 
 === "CONTENU DE SÉANCE"
 
     ### Présentation de l'environnement de travail :
     
-    - Dépot [GitHub 2SI](https://github.com/ericECmorlaix/2SI_2025-2026){target="_blank"} qui héberge ce site ;
     - Organisation du Labo de SI ;
     - Applications iPad utiles : **Carnets**, ...
 
     ### Prise en main des [notebook jupyter](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/IDE/notebook/){target="_blank"} pour communiquer un compte rendu :
 
     ![work](images/undraw_Work_time_re_hdyv.svg){: .center width=40%}
-
-        
-    - **Créer** un compte élève sur [Capytale](https://capytale2.ac-paris.fr/web/c-auth/login){target=_blank} avec le code Sésame `CZY 0ZP TX2` ;
+    
     - **Compléter** dans un navigateur une fiche d'informations à partir de son lien [Capytale n°8827-3935418](https://capytale2.ac-paris.fr/web/c/8827-3935418){target="_blank"} ou [Basthon](https://notebook.basthon.fr/?ipynb=eJztVt1OIzcUfpXT4SKLlJkkJFmYkAa1262KRLtsd7dSRRDy2GcSg8eetT2ECPEuewmPsNd5sR5PfjYgtSrcVWqEEp-xz9_3fT7DbcRRKRcNzm6jAj0TzLNocHvXrJ9f-HmJ0SAqmL0SZqajZuRMZXl4trMDb7VDOdFYoPYgEMTigZvqGq2nNTr4wCVqTgvaU41jPVk8aImVje6az8-2A8eC8shccual0TAY67GO4TdTwACSJAnGqUW9bb9RzDlc22MdwrxB-FwhXCLkTDr6o9qY1ouHULTVcnFvEY7gfWUk_bxbfIWj4LoV4X2FCtB5KKiM0ppLpPYbxlK3flnbEfzEtAt5FAhTMKlDyD_Qrp4Viwcv0W4ivxCRUzI-hzovG0wCnxrpZADbVfLaBszxMUNPKZEbSgA1OORG0_On7a4Ba6Ara3DmATn7-OALO_hEaefOL-6LdRImC7TUDSFUiQ1GMZwFokW1OX7-ihulMFTuqRZHPZXMMu2ni_tgEKnCYmBfNCrKIkmUM8yIr8WDC0QRIhw34XaXevruTBZsgs9L9On3kzoJwsoZtyODkK40WmYqEGNB1XXsvhiyH6iDewfs2kgLFifM0r0DxWDIwDM7Qf_9OMoU01fjCKYWczKn3pdu0GrNTeWrJMPWfH-OWefdj528N45G15JCmFo21BcOW2zUDBeEoKLKBXAZs2XWxZeQiZhytc7LtQBzVvlYKsiNJfpqqX0Tlwvq-pkgI1SOnnYdeVs5jyIa5Ew5fAICNwK3AcgtqeD4dO6nRicBWMXmhHpprIdfPv56Mtbh-1Wj0Rhy4gvtaJjLSWVxNNZDmVtGfMyk8FMCpf-6HRCiCzINkHU7fTKd5Vt4zWazpMYsw1gbbsyVxISbooVFhuIxiuClV0jOf5rqIzkAoYoGQoVoabtOnhlLQ4YOhdRMKTOjNePUMlJnSAUfAkFpgtchcCXLzBDB8cySfg8JR27nJaEVFygkO4TJ3BrHTUl7peSeGo2ljlfLdYq8ohHPLaIeDVtLEAIcBAxnZeBxRNL5d0o5-YexDjEEvKqStJHkNqho2NpKAvShtK0VIcPWiiEia5c4xhvkVTh4QS8R7aNBpxlREWXll6-n5XotjOVpvKArXin_N-4bieGNbxGkUpPn8Il8kqAYMNklcg_MQ_ums9cX_bQ9oqi159QXKjj-r6j_iKJoxjwarHfnzx-1H1DRgCuMbEL9gj5_FDK6on8VULkSebA0AUA-ZS2sLoVZaetitbFUHHSTNOnA616cSR9qlKHa0gaSQpQpc1M6nKbd_U7abafZfi_dFz1k6UF7v7-X53kmct7naaeXdvK-OMAcez3E9kFn7yAXvJvmaXuvG91RaJ2FUczoHvS-GReF1IZS7d39BfZ5gEY){target="_blank"} ;
     - **Faire** `Fichier > Enregistrer sous...` pour télécharger sur l'iPad en local un fichier copie de votre notebook complété ;
     - **renommer** le au format `Nom_Prenom-fiche.ipynb` ;    
