@@ -585,9 +585,9 @@
 
     - **Découvrir** plus avant les fonctionnalités des [notebook jupyter](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/IDE/notebook/){target=_blank} ;
 
-
+--> 
 ***
-## Le 23/09
+## Le 16/12
 
 === "CONTENU DE SÉANCE"
 
@@ -605,10 +605,10 @@
 
     - **Poursuivre** la programmation de la carte [**QuickPi**](https://amazon.quick-pi.org/){target="_blank"} avec votre code personnel ;    
     - **Découvrir** plus avant les fonctionnalités d'écriture en MarkDown dans les [notebook jupyter](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/IDE/notebook/){target=_blank} ;
--->  
+ 
 ***
 
-## Le 08/12
+## Le 09/12
 
 === "CONTENU DE SÉANCE"
 
