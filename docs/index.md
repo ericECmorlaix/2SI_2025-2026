@@ -565,9 +565,11 @@
 
     - **Découvrir** d'avantage la [modélisation 3D avec BlocksCad](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/3D/BlocksCAD/){target="_blank"} ;
 
-  
+-->   
 ***
 ## Le 30/09
+
+**Bonne Année**
 
 === "CONTENU DE SÉANCE"
 
@@ -585,7 +587,7 @@
 
     - **Découvrir** plus avant les fonctionnalités des [notebook jupyter](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/IDE/notebook/){target=_blank} ;
 
---> 
+
 ***
 ## Le 16/12
 
