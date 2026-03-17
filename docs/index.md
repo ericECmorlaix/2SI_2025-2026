@@ -517,7 +517,7 @@
 
     - **Découvrir** d'avantage la [modélisation 3D avec BlocksCad](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/3D/BlocksCAD/){target="_blank"} ; 
 
---> 
+
 ***
 ## Du 27/01
 
@@ -611,10 +611,10 @@
 
     - **Poursuivre** la programmation de la carte [**QuickPi**](https://amazon.quick-pi.org/){target="_blank"} avec votre code personnel ;    
     - **Découvrir** plus avant les fonctionnalités d'écriture en MarkDown dans les [notebook jupyter](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/IDE/notebook/){target=_blank} ;
- 
+-->  
 ***
 
-## Le 09/12
+## Le 17/03
 
 === "CONTENU DE SÉANCE"
 
@@ -638,12 +638,11 @@
     - **ouvrir** votre notebook avec `Carnets` pour l'augmenter... ;
     - **transmettre** votre fichier `.ipynb` en pièce jointe d'un mail à l'adresse [eric.madec@ecmorlaix.fr](mailto:eric.madec@ecmorlaix.fr) ;
 
-
 === "TRAVAIL À FAIRE"
 
     ![homework](images/undraw_Working_re_ddwy.svg){: .center width=40%}
 
-    - **Découvrir** plus avant les fonctionnalités d'écriture en MarkDown dans les [notebook jupyter](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/IDE/notebook/){target=_blank} pour **améliorer** votre fiche d'informations et la **retransmettre** par [mail] ;
+    - **Découvrir** plus avant les fonctionnalités d'écriture en MarkDown dans les [notebook jupyter](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/IDE/notebook/){target=_blank} pour **améliorer** votre fiche d'informations et la **rendre** sur Capytale ;
     
 
 
