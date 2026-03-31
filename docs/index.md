@@ -543,19 +543,23 @@
 
     - **Découvrir** plus avant les fonctionnalités des [notebook jupyter](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/IDE/notebook/){target=_blank} ;
 
+
+
+- **Prendre** en main le logiciel [OnShape](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/3D/Onshape/){target="_blank"} puis modéliser le [pion](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/3D/BlocksCAD/#defin-n1){target="_blank"} et le [support](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/3D/BlocksCAD/#defin-n1){target="_blank"} du [casse tête](https://tube-sciences-technologies.apps.education.fr/w/482Jvo9Devz21bhMz9meA3){target="_blank"} puis réaliser un assemblage...
+    > ==Réalisez tous vos modèles dans un même document OnShape et soumettez progressivement vos productions dans la tache "Prise en main" de la classe 2SI_2025-2026.==
+-->  
 ***
-## Le 13/01
+## Le 31/03
 
 === "CONTENU DE SÉANCE"
 
+    
+    - **S'initier** à la modélisation 3D avec [BlocksCAD](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/3D/BlocksCAD/){target="_blank"} ;
+    
     - Synthèse partielle de la programmation des objets connectés sur la [plateforme de France-IOI​​](https://amazon.quick-pi.org/){target="_blank"} et avec le notebook [Quick_Pi-Objets_connectes-Parcours_1.ipynb](https://nbviewer.org/urls/ericecmorlaix.github.io/adn-Tutoriel_lab_si/IOT/QuickPi/Quick_Pi-Objets_connectes-Parcours_1.ipynb){target=_blank} 
     [Capytale n° 6b23-4017450](https://capytale2.ac-paris.fr/web/c/6b23-4017450){target=_blank .md-button .md-button--primary } 
     [:fontawesome-solid-download:](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/IOT/QuickPi/Quick_Pi-Objets_connectes-Parcours_1.ipynb){ .md-button .md-button--primary} ;
-
-    - **S'initier** à la modélisation 3D avec [BlocksCAD](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/3D/BlocksCAD/){target="_blank"} ;
-
-    - **Prendre** en main le logiciel [OnShape](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/3D/Onshape/){target="_blank"} puis modéliser le [pion](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/3D/BlocksCAD/#defin-n1){target="_blank"} et le [support](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/3D/BlocksCAD/#defin-n1){target="_blank"} du [casse tête](https://tube-sciences-technologies.apps.education.fr/w/482Jvo9Devz21bhMz9meA3){target="_blank"} puis réaliser un assemblage...
-    > ==Réalisez tous vos modèles dans un même document OnShape et soumettez progressivement vos productions dans la tache "Prise en main" de la classe 2SI_2025-2026.==
+    
 
 === "TRAVAIL À FAIRE"
 
@@ -569,31 +573,6 @@
 
     - **Découvrir** plus avant les fonctionnalités des [notebook jupyter](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/IDE/notebook/){target=_blank} ;
 
-
-***
-## Le 06/01
-
-**Bonne Année**
-
-=== "CONTENU DE SÉANCE"
-
-    - Synthèse partielle de la programmation des objets connectés sur la [plateforme de France-IOI​​](https://amazon.quick-pi.org/){target="_blank"} et avec le notebook [Quick_Pi-Objets_connectes-Parcours_1.ipynb](https://nbviewer.org/urls/ericecmorlaix.github.io/adn-Tutoriel_lab_si/IOT/QuickPi/Quick_Pi-Objets_connectes-Parcours_1.ipynb){target=_blank} 
-    [Capytale n° 6b23-4017450](https://capytale2.ac-paris.fr/web/c/6b23-4017450){target=_blank .md-button .md-button--primary } 
-    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/IOT/QuickPi/Quick_Pi-Objets_connectes-Parcours_1.ipynb){ .md-button .md-button--primary} ;
-
-=== "TRAVAIL À FAIRE"
-
-    ![homework](images/undraw_Working_re_ddwy.svg){: .center width=40%}
-
-    - **Poursuivre**, avec votre code personnel, la programmation des objets connectés sur la [plateforme de France-IOI​​](https://amazon.quick-pi.org/){target="_blank"} et **Compléter** progressivement votre notebook [Quick_Pi-Objets_connectes-Parcours_1.ipynb](https://nbviewer.org/urls/ericecmorlaix.github.io/adn-Tutoriel_lab_si/IOT/QuickPi/Quick_Pi-Objets_connectes-Parcours_1.ipynb){target=_blank} 
-    [Capytale n° 6b23-4017450](https://capytale2.ac-paris.fr/web/c/6b23-4017450){target=_blank .md-button .md-button--primary } 
-    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/IOT/QuickPi/Quick_Pi-Objets_connectes-Parcours_1.ipynb){ .md-button .md-button--primary} ;
-
-    - **Découvrir** plus avant les fonctionnalités des [notebook jupyter](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/IDE/notebook/){target=_blank} ;
-
-
-
--->  
 ***
 ## Le 24/03
 
