@@ -518,15 +518,17 @@
     - **Découvrir** d'avantage la [modélisation 3D avec BlocksCad](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/3D/BlocksCAD/){target="_blank"} ; 
 
 
+
+- **Prendre** en main du logiciel [OnShape](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/3D/Onshape/){target="_blank"} pour modéliser le [pion](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/3D/BlocksCAD/#defin-n1){target="_blank"} et le [support](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/3D/BlocksCAD/#defin-n1){target="_blank"} du [casse tête](https://tube-sciences-technologies.apps.education.fr/w/482Jvo9Devz21bhMz9meA3){target="_blank"} et réaliser un assemblage...
+    > ==Réalisez tous vos modèles dans un même document OnShape et soumettez progressivement vos productions dans la tache "Prise en main" de la classe 2SI_2025-2026.==   
+
+--> 
 ***
-## Du 27/01
+## Du 7/04
 
 === "CONTENU DE SÉANCE"
 
-    - **Programmer** une carte [BBC micro:bit](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/IOT/BBC_microbit/){target=_blank} afin de relever [les défis...](./bbc_microbit){target=_blank} en sauvegardant vos scripts sur [Capytale n° 5144-4540204](https://capytale2.ac-paris.fr/web/c/5144-4540204){target=_blank .md-button .md-button--primary } ;
-
-    - **Poursuivre** votre prise en main du logiciel [OnShape](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/3D/Onshape/){target="_blank"} pour modéliser le [pion](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/3D/BlocksCAD/#defin-n1){target="_blank"} et le [support](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/3D/BlocksCAD/#defin-n1){target="_blank"} du [casse tête](https://tube-sciences-technologies.apps.education.fr/w/482Jvo9Devz21bhMz9meA3){target="_blank"} et réaliser un assemblage...
-    > ==Réalisez tous vos modèles dans un même document OnShape et soumettez progressivement vos productions dans la tache "Prise en main" de la classe 2SI_2025-2026.==    
+    - **Programmer** une carte [BBC micro:bit](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/IOT/BBC_microbit/){target=_blank} afin de relever [les défis...](./bbc_microbit){target=_blank} en sauvegardant vos scripts sur [Capytale n° 5144-4540204](https://capytale2.ac-paris.fr/web/c/5144-4540204){target=_blank .md-button .md-button--primary } ; 
     
 
 === "TRAVAIL À FAIRE"
@@ -543,11 +545,6 @@
 
     - **Découvrir** plus avant les fonctionnalités des [notebook jupyter](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/IDE/notebook/){target=_blank} ;
 
-
-
-- **Prendre** en main le logiciel [OnShape](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/3D/Onshape/){target="_blank"} puis modéliser le [pion](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/3D/BlocksCAD/#defin-n1){target="_blank"} et le [support](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/3D/BlocksCAD/#defin-n1){target="_blank"} du [casse tête](https://tube-sciences-technologies.apps.education.fr/w/482Jvo9Devz21bhMz9meA3){target="_blank"} puis réaliser un assemblage...
-    > ==Réalisez tous vos modèles dans un même document OnShape et soumettez progressivement vos productions dans la tache "Prise en main" de la classe 2SI_2025-2026.==
--->  
 ***
 ## Le 31/03
 
